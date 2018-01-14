@@ -1,0 +1,11 @@
+{
+  "db": {
+    "host": "127.0.0.1",
+    "port": 27017,
+    "database": "smartcampus",
+    "username": "smartcampus",
+    "password": "12345",
+    "name": "db",
+    "connector": "mongodb"
+  }
+}
